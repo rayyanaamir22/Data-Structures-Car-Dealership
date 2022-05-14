@@ -1,0 +1,44 @@
+{
+  "1": {
+    "car class": "SEDAN",
+    "model": "CLA",
+    "year": 2015,
+    "mileage": 25,
+    "ID": 1
+  },
+  "2": {
+    "car class": "SUV",
+    "model": "GLA",
+    "year": 2015,
+    "mileage": 17,
+    "ID": 2
+  },
+  "3": {
+    "car class": "TRUCK",
+    "model": "X CLASS",
+    "year": 2020,
+    "mileage": 80,
+    "ID": 3
+  },
+  "4": {
+    "car class": "SPORTS CAR",
+    "model": "CLK GTR",
+    "year": 1997,
+    "mileage": 200,
+    "ID": 4
+  },
+  "5": {
+    "car class": "SPORTS CAR",
+    "model": "AMG GTR",
+    "year": 2020,
+    "mileage": 50,
+    "ID": 5
+  },
+  "6": {
+    "car class": "SPORTS CAR",
+    "model": "Honda Civic Type R",
+    "year": 2022,
+    "mileage": 24,
+    "ID": 6
+  }
+}

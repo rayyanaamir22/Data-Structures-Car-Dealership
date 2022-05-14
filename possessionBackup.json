@@ -1,0 +1,16 @@
+{
+  "7": {
+    "car class": "SPORTS CAR",
+    "model": "AMG GTR",
+    "year": 2020,
+    "mileage": 50,
+    "ID": 5
+  },
+  "8": {
+    "car class": "SUV",
+    "model": "G 63",
+    "year": 2015,
+    "mileage": 80,
+    "ID": 6
+  }
+}
