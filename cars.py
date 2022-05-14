@@ -22,7 +22,7 @@ class Vehicle(object):
   def sell(self):
     self.ownership = False
   
-
+'''
 # CREATE DEFAULT VEHICLE INSTANCES
 
 # SEDAN
@@ -70,3 +70,4 @@ class sportsCar(Vehicle):
 
   def roof(self):
     self.convertible = True
+'''
